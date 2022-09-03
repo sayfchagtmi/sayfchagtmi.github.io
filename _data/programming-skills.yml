@@ -1,0 +1,31 @@
+- name: Python
+  percentage: 95
+  color: danger
+
+- name: R
+  percentage: 80
+  color: success
+
+- name: SQL
+  percentage: 85
+  color: info
+
+- name: SAS
+  percentage: 70
+  color: secondary
+
+- name: Java
+  percentage: 70
+  color: warning
+
+- name: VBA
+  percentage: 70
+  color: dark
+
+- name: C 
+  percentage: 65
+  color: info 
+
+- name: Web Development ( HTML, CSS, FLASK )
+  percentage: 70
+  color: success

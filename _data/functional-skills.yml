@@ -1,0 +1,19 @@
+- name: Data Analysis
+  percentage: 90
+  color: info
+
+- name: Data visualization
+  percentage: 90
+  color: success
+
+- name: Machine Learning
+  percentage: 95
+  color: danger
+
+- name: Natural Language Processing (NLP)
+  percentage: 90
+  color: info
+
+- name: Web Scraping
+  percentage: 85
+  color: sucess

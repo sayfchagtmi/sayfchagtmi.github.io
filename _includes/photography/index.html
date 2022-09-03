@@ -1,0 +1,27 @@
+
+<div class="card-columns m-3 mt-5">
+
+  <!-- Local Photos 
+  {% for photography in site.photography %}
+
+    {%- assign photography_type  = "local" -%}
+    {%- assign photography_id    = photography.name | slugify -%}
+    {%- assign photography_img   = photography.image -%}
+    {%- assign photography_name  = photography.name -%}
+    {%- assign photography_desc  = photography.description -%}
+    {%- assign photography_tools = photography.tools -%}
+
+    {%- if photography.external_url -%}
+      {%- assign photography_url = photography.external_url -%}
+      {%- assign external    = true -%}
+    {%- else -%}
+      {%- assign photography_url = photography.url | relative_url -%}
+      {%- assign external    = false -%}
+    {%- endif -%}
+
+    {% include photography/photography-card.html %}
+
+  {% endfor %}-->
+
+</div>
+{% include coming_soon.html %}

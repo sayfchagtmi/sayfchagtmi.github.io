@@ -1,0 +1,12 @@
+<div class="col mt-4">
+    {% for certificate in site.data.certifications %}
+    <div class="row">
+        <div class="col-2">
+            <img src="{{certificate.img}}" alt="dataiku" class="img-thumbnail">
+        </div>
+        <div class="col-8" style="margin-top: 4%;">
+                <a href="{{certificate.link}}">{{certificate.title}}</a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

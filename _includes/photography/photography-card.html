@@ -1,0 +1,18 @@
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="{{ photography_url }}" class="photography card text-themed" {%- if external and site.open_new_tab -%} target="_blank" {%- endif -%}>
+    {%- if photography_img -%}
+    <img id="{{ photography_id }}-img" class="card-img-top" src="{{ photography_img }}" alt="{{ photography_name }}" />
+    {%- endif -%}
+    <div class="card-body">
+      <h5 id="{{ photography_id }}-name" class="card-title">
+        {{ photography_name }}
+      </h5>
+      <p id="{{ photography_id }}-desc" class="card-text">{{ photography_desc }}</p>
+      <p id="{{ photography_id }}-tools" class="card-text">
+        {%- for tool in photography_tools -%}
+        <span class="badge badge-pill text-primary border border-primary ml-1">{{ tool }}</span>
+        {%- endfor -%}
+      </p>
+    </div>
+  </a>
+</div>

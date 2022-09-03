@@ -1,0 +1,68 @@
+- title: Data Scientist at "LAB'IA Technopole Loire Valley"
+  from: 2021
+  to: present
+  description:  <ul>
+                  <li>Support and modeling of customer problems.</li>
+                  <li>Implementation of data pipelines (Extraction, Transformation, Cleaning, Visualization, Analysis, Modelling, Evaluation and Validation).</li>
+                  <li>Developed Python libraries for automation, web scraping, data extraction and transformation, and model training and evaluation.</li>
+                  <li>Development and deployment of Deep Learning algorithms.</li>
+                </ul>  
+              <b><u>Key Words:</u></b> Deepl Learning, Computer Vision, NLP, Data Vizualization, Modeling, Python, Automation, Data Processing, Agile Method.
+              <br>
+              <b><u>Technologies:</u></b> Python, Keras, Tensorflow, Pytorch, Docker, Airflow, Git, Pyspark, Linux servers.
+
+- title: Graduation Project at "Orange France"
+  from: 2021
+  to: 6 months
+  description: <span>Automation of certain workflows and exploration of new work methodologies based on Machine Learning approaches applied on different subjects:</span>
+               <ul>
+                  <li>Automation of data processing and cleaning on Dataiku using Python scripts.</li>
+                  <li>Development of Dataiku Dashboards in RShiny.</li>
+                  <li>Development of data visualization’s Dataiku plugins.</li>
+                  <li>Modeling a solution for churn estimation.</li>
+                  <li>Meet the needs of marketing teams (analysis, adjustment, sampling, data visualization...).</li>
+                  <li>Development of a Scoring solution.</li>
+                  <li>Automated reporting on a monthly basis using Dataiku scenarios.</li>
+                </ul>  
+              <b><u>Key Words:</u></b> Big data, Churn, Scoring, Automation, Data visualization, Dashboards, Modeling, Data Drift.
+              <br>
+              <b><u>Technologies:</u></b> Dataiku, Teradata, Hadoop, Hive, SQL, Pyspark, Python, Keras, R, RShiny.
+
+- title: Junior Statistician at Datametrix AG
+  from: 2019
+  to: 2020
+  description:  <ul>
+                  <li>Analyzed clinical data using SAS.</li>
+                  <li>Supervised a graduation project about depression detection using Deep Learning algorithms.</li>
+                  <li>Analyzed Covid-19 data during a webinar about predictive analysis.</li>
+                </ul>  
+              <b><u>Key Words:</u></b> Bio-statistics, Clinical trials, GCP, GDPR, Web Scraping.
+              <br>
+              <b><u>Technologies:</u></b>  Python, Git, Tensorflow, Keras, SAS, R, RShiny, Linux servers.
+
+- title: Graduation Project at EURA NOVA Tunisia
+  from: 2019
+  to: 4 months
+  description: Developed a Sentiment Analysis model from data in Arabic language using Deep Learning algorithms.
+              <br>
+              <b><u>Key Words:</u></b> Natural Language Processing (NLP), Data Pre-processing, Word Embedding, Recurrent Neural Networks (LSTM, BiLSTM, GRU), Attention Mechanism, Transfer learning.
+              <br>
+              <b><u>Technologies:</u></b> Python, Git, Tensorflow, Keras, Docker, Linux servers.
+
+- title: Engineering Internship at "Banque de Tunisie"
+  from: 2018
+  to: 1 month
+  description: Developed a Python application using Recurrent Neural Networks (LSTM cell) for time-series, to solve the "Cash Flow Estimation" problem.
+              <br>
+              <b><u>Key Words:</u></b> Time Series, Forecasting, Recurrent Neural Networks (LSTM, GRU), Hyper-parameters .
+              <br>
+              <b><u>Technologies:</u></b> Python Tensorflow, Keras.
+
+- title: Summer Internship at "Attijari Bank"
+  from: 2017
+  to: 1 month
+  description: Created a Shiny Application to analyze the evolution of management credits between the first two semesters of the years 2016/2017. 
+              <br>
+              <b><u>Key Words:</u></b> Tunisian market, Statistics, Dashboard.
+              <br>
+              <b><u>Technologies:</u></b> R, RShiny.
