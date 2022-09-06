@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: page 
 name: Photos from my trip in Dubai
 tools: [dubai, travel]
 image: https://frenchmorning.com/wp-content/uploads/2021/09/avion-768x414.jpg

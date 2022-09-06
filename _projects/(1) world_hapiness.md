@@ -304,7 +304,7 @@ fviz_pca_contrib(pca, choice = "var", axes = 2)
 fviz_pca_var(pca, geom = c( "text" , "arrow" ) , col.var = "cos2" )
 ```
 
-![Correlation circle for variables](/img/sprojects/sWHR/sunnamed-chunk-12-1.png)
+![Correlation circle for variables](/img/projects/WHR/unnamed-chunk-12-1.png)
 
 ## Biplot
 

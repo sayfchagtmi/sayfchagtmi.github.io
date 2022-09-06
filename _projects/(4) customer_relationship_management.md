@@ -7,10 +7,13 @@ description: This project is about a Java application to manage car rentals for 
 
 ## How to use this application
 
-    1- You need to create a local server using for example WampServer ,Xampp, Phpmyadmin ...
-    2- Create a database named ‘agence_so’ where the pseudo name is ‘root’ and the password is ’’ (empty).
-    3- Upload the ‘agence_so.sql’ file to generate tables.
-    4- You can now launch direct the application from the executable file (.exe) directly, otherwise you must compile java files.
+- You need to create a local server using for example WampServer ,Xampp, Phpmyadmin ...
+
+- Create a database named ‘agence_so’ where the pseudo name is ‘root’ and the password is ’’ (empty).
+
+- Upload the ‘agence_so.sql’ file to generate tables.
+
+- You can now launch direct the application from the executable file (.exe) directly, otherwise you must compile java files.
 
 ## GitHub repository
 
