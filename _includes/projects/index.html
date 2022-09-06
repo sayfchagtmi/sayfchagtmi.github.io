@@ -1,7 +1,6 @@
-<!-- 
 <div class="card-columns m-3 mt-5">
 
-  Remote Projects
+  <!-- Remote Projects -->
   {% for remote_project in page.remote_projects %}
 
     {%- for repo in site.github.public_repositories -%}
@@ -34,7 +33,7 @@
 
   {% endfor %}
 
-  Local Projects
+  <!-- Local Projects -->
   {% for project in site.projects %}
 
     {%- assign project_type  = "local" -%}
@@ -56,6 +55,4 @@
 
   {% endfor %}
 
-</div> -->
-
-{% include coming_soon.html %}
+</div>
