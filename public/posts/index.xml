@@ -19,5 +19,15 @@
       
     </item>
     
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
